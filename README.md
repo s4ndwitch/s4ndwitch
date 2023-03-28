@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 Codeberg Profile:
 https://codeberg.org/s4ndwitch
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ndwitch&theme=radical" />
